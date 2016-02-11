@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="DarkButtons" parent="@style/_DarkButtons"/>
+
+  <style name="_DarkButtons" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    <item name="android:buttonStyle">@style/ButtonDarkButtons</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonDarkButtons</item>
+
+  </style>
+
+</resources>
